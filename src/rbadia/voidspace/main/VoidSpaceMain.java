@@ -1,3 +1,5 @@
+//Ariel Omar Torres Perez
+//Kariel A. Diaz Maisonet
 package rbadia.voidspace.main;
 
 import javax.swing.JFrame;
